@@ -32,7 +32,7 @@ public class BasicSortingAndSearchingDemo {
 
 		// Sort:
 		Collections.sort(numbersList, new IntegerComparator());
-		System.out.println("\t!!! SORTED !!!\n");
+		System.out.println("\t!!!! SORTED !!!!\n");
 
 		// Print numbers after sorting:
 		ms.printNumbers(numbersList);
